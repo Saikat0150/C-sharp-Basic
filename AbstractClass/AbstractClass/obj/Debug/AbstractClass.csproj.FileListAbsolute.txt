@@ -5,3 +5,10 @@ C:\Users\saika\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.
 C:\Users\saika\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\saika\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\saika\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\saika\source\repos git\C-sharp-Basic\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

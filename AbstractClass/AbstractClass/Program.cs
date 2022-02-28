@@ -12,6 +12,7 @@ namespace AbstractClass
         public void SecondMethod()
         {
             Console.WriteLine("This is Non-Abstract Method..");
+            Console.WriteLine("Add a line for test");
         }
     }
     class MyDerivedClass : MyBaseClass
